@@ -1,4 +1,3 @@
 nginx
 redis:latest
 redis:8.0-M03
-python
